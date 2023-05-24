@@ -1,7 +1,7 @@
-## Olá! Eu sou o Coyote
+## Olá! Eu sou o o Logan
 
-- 👀 Atualmente estou aprendendo JavaScript
-- 🌱 Estou trabalhando com Pawno
+- 👀 Atualmente estou aprendendo HTML e CSS
+- 🌱 Estou trabalhando com Javascript
 - 📫 Me contate no email Coyote201302@gmail.com
 
 
