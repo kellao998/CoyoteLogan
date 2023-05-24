@@ -1,4 +1,4 @@
-## Olá! Eu sou o o Logan
+## Olá! Eu sou o Logan
 
 - 👀 Atualmente estou aprendendo HTML e CSS
 - 🌱 Estou trabalhando com Javascript
